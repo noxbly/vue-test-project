@@ -30,3 +30,7 @@ npm install
 npm run dev       # start the Vite dev server
 npm run build     # produce a production build in dist/
 ```
+
+## License
+
+Licensed under the [Apache License 2.0](./LICENSE).
